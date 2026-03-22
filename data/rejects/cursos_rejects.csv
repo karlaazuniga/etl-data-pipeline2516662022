@@ -1,0 +1,4 @@
+id_curso,curso,docente,creditos,motivo_rechazo
+C206,Química,Lic. Morales,,creditos_invalido
+C210,Diseño Web,Mtra. Pérez,,creditos_invalido
+C211,Algoritmos,Ing. Romero,,creditos_invalido
